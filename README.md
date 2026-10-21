@@ -11,8 +11,3 @@ I am a student at upgrad school of technology , currently learning git and githu
 ## projects
 -us: one line about it 
 -as: one line about it 
-
-## social skill 
-- git hub: https://github.com/<username>
-- linkedin: <your linkedin link >
-
