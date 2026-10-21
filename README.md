@@ -8,3 +8,6 @@ I am a student at upgrad school of technology , currently learning git and githu
 -Problem solving
 -Basic Git 
 
+## projects
+-us: one line about it 
+-as: one line about it 
